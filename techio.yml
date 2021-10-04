@@ -2,7 +2,7 @@ title: Node.js Project
 plan:
 - title: Welcome
   statement: markdowns/welcome.md
-- title: Autrement
+- title: Page 1
   statement: markdowns/Page1.md
 projects:
   nodejs:

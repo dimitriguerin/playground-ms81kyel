@@ -9,6 +9,6 @@ plan:
 projects:
   nodejs:
     root: /nodejs-project
-    runner:
+    runner: universe.js
       name: techio/node-npm-runner
       version: latest

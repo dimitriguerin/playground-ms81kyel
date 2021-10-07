@@ -6,6 +6,8 @@ plan:
   statement: markdowns/Page1.md
 - title: Page 2
   statement: markdowns/Page2.md
+- title: Add a viewer
+  statement: markdowns/Page3.md
 projects:
   nodejs:
     root: /nodejs-project
